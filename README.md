@@ -5,4 +5,4 @@
 графический редактор Figma. В данной работе в CSS использывал БЭМ, медиазапросы, шрифт Inter, Grid Layout, Flex 
 для создания адаптивного сайта.
 
-Ссылка на Курсовой проект: https://makofoxy.github.io/russian-travel/
+Ссылка на Курсовой проект: https://makofoxy.github.io/Travel-in-the-Kazakhstan/
